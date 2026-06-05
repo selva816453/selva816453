@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Selvam 👋<br><br>Software Engineering student with a strong interest in Data Structures & Algorithms and Backend Development.<br><br>💻 Proficient in Java  <br>🚀 Currently learning Spring Boot<br><br>Projects<br>Lost and Found Monitoring System  <br>Unauthorized Person Detection System  <br><br>🎯 Aspiring Software Developer, focused on building strong problem-solving skills and developing scalable applications.<br><br>📫 Connect with me  <br>LinkedIn: Hi, I'm Selvam 👋<br><br>Software Engineering student with a strong interest in Data Structures & Algorithms and Backend Development.<br><br>💻 Proficient in Java  <br>🚀 Currently learning Spring Boot<br><br>Projects<br>Lost and Found Monitoring System  <br>Unauthorized Person Detection System  <br><br>🎯 Aspiring Software Developer, focused on building strong problem-solving skills and developing scalable applications.<br><br>📫 Connect with me  <br>LinkedIn: https://www.linkedin.com/in/selvam-m-350562324/ <br>Portfolio: https://selvam-m-portfolio.lovable.app<br>Email: selva816453@gmail.com
+Hi, I'm Selvam 👋<br><br>Software Engineering student with a strong interest in Data Structures & Algorithms and Backend Development.<br><br>💻 Proficient in Java  <br>🚀 Currently learning Spring Boot<br><br>Projects<br>Lost and Found Monitoring System  <br>Unauthorized Person Detection System  <br><br>🎯 Aspiring Software Developer, focused on building strong problem-solving skills and developing scalable applications.<br><br>📫 Connect with me  <br><br>LinkedIn: https://www.linkedin.com/in/selvam-m-350562324/ <br>Portfolio: https://selvam-m-portfolio.lovable.app<br>Email: selva816453@gmail.com
 
 
 # 💻 Tech Stack:
@@ -8,8 +8,5 @@ Hi, I'm Selvam 👋<br><br>Software Engineering student with a strong interest i
 ![](https://github-readme-stats.shion.dev/api?username=selva816453&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=selva816453&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=selva816453&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=selva816453&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
